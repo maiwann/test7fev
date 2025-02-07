@@ -1,7 +1,7 @@
 ---
-layout: page
-title: Articles
-permalink: /articles/
+title: "Mes projets"
+order: 1
+in_menu: true
 blog_index: true
 ---
 <aside>
@@ -18,4 +18,4 @@ blog_index: true
   <a href="{{post.url | relative_url}}"> Lire l'article ➞ </a>
 </article>
 <hr />
-{% endfor %}
+{% endfor %} 
