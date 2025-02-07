@@ -1,9 +1,11 @@
 ---
-title: "Mes projets"
+title: "MON projet"
 order: 1
 in_menu: true
 blog_index: true
 ---
+Je rajoute des éléments ici lalalalala
+
 <aside>
   S'abonner via le <a href="{{ '/feed.xml' | relative_url }}">flux RSS</a>
   (<a href="https://flus.fr/carnet/a-quoi-servent-les-flux.html">c'est quoi ?</a>)
